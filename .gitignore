@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+# Visual Studio user specific files
 .vs/
 
 # Compiled Object files
@@ -52,7 +52,6 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
-
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
@@ -73,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# IDE specific
+*.idea/
+*.user
+*.userprefs
+*.log
