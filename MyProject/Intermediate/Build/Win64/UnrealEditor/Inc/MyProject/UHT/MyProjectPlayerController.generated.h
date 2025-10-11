@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AMyProjectPlayerController ***********************************************
 MYPROJECT_API UClass* Z_Construct_UClass_AMyProjectPlayerController_NoRegister();
 
-#define FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyProjectPlayerController(); \
 	friend struct Z_Construct_UClass_AMyProjectPlayerController_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AMyProjectPlayerController)
 
 
-#define FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AMyProjectPlayerController(AMyProjectPlayerController&&) = delete; \
 	AMyProjectPlayerController(const AMyProjectPlayerController&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AMyProjectPlayerController();
 
 
-#define FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_17_PROLOG
-#define FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_20_GENERATED_BODY \
+#define FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_17_PROLOG
+#define FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AMyProjectPlayerController;
 // ********** End Class AMyProjectPlayerController *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectPlayerController_h
+#define CURRENT_FILE_ID FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

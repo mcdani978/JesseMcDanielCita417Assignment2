@@ -435,7 +435,7 @@ AShooterPickup::~AShooterPickup() {}
 // ********** End Class AShooterPickup *************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FWeaponTableRow::StaticStruct, Z_Construct_UScriptStruct_FWeaponTableRow_Statics::NewStructOps, TEXT("WeaponTableRow"), &Z_Registration_Info_UScriptStruct_FWeaponTableRow, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FWeaponTableRow), 4185183481U) },
@@ -444,9 +444,9 @@ struct Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProje
 		{ Z_Construct_UClass_AShooterPickup, AShooterPickup::StaticClass, TEXT("AShooterPickup"), &Z_Registration_Info_UClass_AShooterPickup, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterPickup), 1680076623U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_3666943067(TEXT("/Script/MyProject"),
-	Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_3666943067(TEXT("/Script/MyProject"),
+	Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterPickup_h__Script_MyProject_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

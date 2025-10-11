@@ -105,14 +105,14 @@ UEnvQueryContext_Target::~UEnvQueryContext_Target() {}
 // ********** End Class UEnvQueryContext_Target ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UEnvQueryContext_Target, UEnvQueryContext_Target::StaticClass, TEXT("UEnvQueryContext_Target"), &Z_Registration_Info_UClass_UEnvQueryContext_Target, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEnvQueryContext_Target), 3171325147U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_3000846923(TEXT("/Script/MyProject"),
-	Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_3000846923(TEXT("/Script/MyProject"),
+	Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_AI_EnvQueryContext_Target_h__Script_MyProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

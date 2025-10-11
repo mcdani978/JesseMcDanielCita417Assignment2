@@ -1,12 +1,12 @@
-"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp"
-@"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/MyProject.Shared.rsp"
-/FI"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Definitions.MyProject.h"
-/Yu"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.obj"
-/experimental:log "C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.sarif"
-/sourceDependencies "C:/Users/Student/Documents/Unreal Projects/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.dep.json"
+"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp"
+@"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/MyProject.Shared.rsp"
+/FI"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Definitions.MyProject.h"
+/Yu"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.obj"
+/experimental:log "C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.sarif"
+/sourceDependencies "C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi

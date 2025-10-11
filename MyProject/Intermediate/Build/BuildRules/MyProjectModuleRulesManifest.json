@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Student\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
-		"C:\\Users\\Student\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject.Target.cs",
-		"C:\\Users\\Student\\Documents\\Unreal Projects\\MyProject\\Source\\MyProjectEditor.Target.cs"
+		"C:\\Users\\Student\\Desktop\\JesseMcDanielCita417Assignment2\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\Student\\Desktop\\JesseMcDanielCita417Assignment2\\MyProject\\Source\\MyProject.Target.cs",
+		"C:\\Users\\Student\\Desktop\\JesseMcDanielCita417Assignment2\\MyProject\\Source\\MyProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }

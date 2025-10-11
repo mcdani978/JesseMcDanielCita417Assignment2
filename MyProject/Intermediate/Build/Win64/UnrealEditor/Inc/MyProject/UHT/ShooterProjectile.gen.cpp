@@ -356,14 +356,14 @@ AShooterProjectile::~AShooterProjectile() {}
 // ********** End Class AShooterProjectile *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AShooterProjectile, AShooterProjectile::StaticClass, TEXT("AShooterProjectile"), &Z_Registration_Info_UClass_AShooterProjectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterProjectile), 2815857364U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_280819295(TEXT("/Script/MyProject"),
-	Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_280819295(TEXT("/Script/MyProject"),
+	Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_Variant_Shooter_Weapons_ShooterProjectile_h__Script_MyProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

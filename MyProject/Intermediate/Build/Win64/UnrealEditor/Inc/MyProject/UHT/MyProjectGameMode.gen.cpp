@@ -106,14 +106,14 @@ AMyProjectGameMode::~AMyProjectGameMode() {}
 // ********** End Class AMyProjectGameMode *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyProjectGameMode, AMyProjectGameMode::StaticClass, TEXT("AMyProjectGameMode"), &Z_Registration_Info_UClass_AMyProjectGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyProjectGameMode), 3026348713U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_172135157(TEXT("/Script/MyProject"),
-	Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_Unreal_Projects_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_172135157(TEXT("/Script/MyProject"),
+	Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Desktop_JesseMcDanielCita417Assignment2_MyProject_Source_MyProject_MyProjectGameMode_h__Script_MyProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
